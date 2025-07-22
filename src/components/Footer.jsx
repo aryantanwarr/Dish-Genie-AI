@@ -1,9 +1,9 @@
 import React from 'react'
 
-function footer() {
+function Footer() {
   return (
-    <div><h2 className='Footer'>© 2025 DishGenie.AI | Made with ❤️ with freeCodeCamp </h2></div>
+    <footer className='Footer'><h2>© 2025 DishGenie.AI | Made with ❤️ </h2></footer>
   )
 }
 
-export default footer
+export default Footer
